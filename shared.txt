@@ -1,6 +1,2 @@
 project shared with me, lexia1317
-<<<<<<< HEAD
-test something
-=======
-test 1
->>>>>>> 8ae0162bde6c4f834cae164413d7f0cb52e95d6e
+test conflict
